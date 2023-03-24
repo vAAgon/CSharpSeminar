@@ -2,16 +2,16 @@
 
 Console.Clear();
 Console.WriteLine("Введите число");
- string num = Console.ReadLine();
- if (num != null)
- {
-int lastnum = int.Parse(num);
-int  firstnum = lastnum * -1; 
-string res = string.Empty;
-while(firstnum <=lastnum)
+string num = Console.ReadLine();
+if (num != null)
 {
-    res = res + firstnum + " ";
-    firstnum ++ ;
+    int lastnum = int.Parse(num);
+    int firstnum = lastnum * -1;
+    string res = string.Empty;
+    while (firstnum <= lastnum)
+    {
+        res = res + firstnum + " ";
+        firstnum++;
+    }
+    Console.WriteLine(res);
 }
-Console.WriteLine(res);
- }
