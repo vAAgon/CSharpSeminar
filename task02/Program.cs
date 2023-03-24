@@ -8,15 +8,16 @@ if (num1 != null && num2 != null)
 {
     int x = int.Parse(num1);
     int y = int.Parse(num2);
-   if (x==y ){
-    Console.WriteLine("Same");
-   }
+    if (x == y)
+    {
+        Console.WriteLine("Same");
+    }
     if (x < y)
     {
         Console.WriteLine($"max= {y} min= {x}");
     }
-    if(x>y)
+    if (x > y)
     {
-         Console.WriteLine($"max= {x} min= {y}");
+        Console.WriteLine($"max= {x} min= {y}");
     }
 }
