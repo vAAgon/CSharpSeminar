@@ -1,0 +1,15 @@
+D:\GeekBrains\С#Seminar\task05\obj\Debug\net7.0\task05.csproj.AssemblyReference.cache
+D:\GeekBrains\С#Seminar\task05\obj\Debug\net7.0\task05.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\С#Seminar\task05\obj\Debug\net7.0\task05.AssemblyInfoInputs.cache
+D:\GeekBrains\С#Seminar\task05\obj\Debug\net7.0\task05.AssemblyInfo.cs
+D:\GeekBrains\С#Seminar\task05\obj\Debug\net7.0\task05.csproj.CoreCompileInputs.cache
+D:\GeekBrains\С#Seminar\task05\bin\Debug\net7.0\task05.exe
+D:\GeekBrains\С#Seminar\task05\bin\Debug\net7.0\task05.deps.json
+D:\GeekBrains\С#Seminar\task05\bin\Debug\net7.0\task05.runtimeconfig.json
+D:\GeekBrains\С#Seminar\task05\bin\Debug\net7.0\task05.dll
+D:\GeekBrains\С#Seminar\task05\bin\Debug\net7.0\task05.pdb
+D:\GeekBrains\С#Seminar\task05\obj\Debug\net7.0\task05.dll
+D:\GeekBrains\С#Seminar\task05\obj\Debug\net7.0\refint\task05.dll
+D:\GeekBrains\С#Seminar\task05\obj\Debug\net7.0\task05.pdb
+D:\GeekBrains\С#Seminar\task05\obj\Debug\net7.0\task05.genruntimeconfig.cache
+D:\GeekBrains\С#Seminar\task05\obj\Debug\net7.0\ref\task05.dll
