@@ -1,11 +1,15 @@
-# C#sint
-Console.Clear(); //Clera console 
+# C#_Comand 
+Console.Clear(); //Clera console перед выполнением. 
 
-alt+shift+F // Выравниваем 
+Console.Writeline("TEXT"); //Выводит текст с новой строки.
 
-dotnet new console // создает внутренние выйлы проэкта 
+**string inLine**  = Console.Readline ();// Ввод текста. но нужно создать переменнуя для ввода.
 
-dotnet run // запускает программу 
+__int line = int.Parse(inLine);__ //Парсит строку в целочисленное.
+
+__dotnet new console__ // создает внутренние выйлы проэкта 
+
+**dotnet run** // запускает программу 
 
 Console.Writeline("TEXT");
 
