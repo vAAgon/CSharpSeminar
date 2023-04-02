@@ -2,9 +2,9 @@
 
 Console.Clear();
 Console.WriteLine("Input first namber :");
-string numline = Console.ReadLine();
+string? numline = Console.ReadLine();
 Console.WriteLine("input second namber :");
-string numline1 = Console.ReadLine();
+string? numline1 = Console.ReadLine();
 if (numline != null && numline1 != null)
 {
     int num1 = int.Parse(numline);

@@ -1,7 +1,7 @@
 ﻿//Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает последнюю цифру этого числа.
 Console.Clear();
 Console.Write("Введите чесло :");
-string numline = Console.ReadLine();
+string? numline = Console.ReadLine();
 if (numline != null)
 {
     //    char[] charArr = numline.ToCharArray();

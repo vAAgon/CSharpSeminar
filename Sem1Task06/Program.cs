@@ -1,7 +1,7 @@
 ﻿//  Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 Console.Clear();
 Console.Write("Input number ");
-string num = Console.ReadLine();
+string? num = Console.ReadLine();
 if (num != null)
 {
     int x = int.Parse(num);
@@ -12,7 +12,7 @@ if (num != null)
     }
     else
     {
-        Console.WriteLine("НЕ четное");
+        Console.WriteLine("не четное");
     }
 }
 

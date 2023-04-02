@@ -2,7 +2,7 @@
 
 Console.Clear();
 Console.WriteLine("Введите число");
-string num = Console.ReadLine();
+string? num = Console.ReadLine();
 if (num != null)
 {
     int lastnum = int.Parse(num);
